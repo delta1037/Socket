@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geniusrabbit/CLionProjects/Socket/Server/main.c
+stdio.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+string.h
+-
+arpa/inet.h
+-
+zconf.h
+-
+

@@ -1,0 +1,5 @@
+#忽略.idea
+
+/Server/.idea/
+
+/Client/.idea/
