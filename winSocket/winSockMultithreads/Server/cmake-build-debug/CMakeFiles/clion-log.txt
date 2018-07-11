@@ -1,0 +1,4 @@
+"E:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\winSockMultithreads\Server
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/winSockMultithreads/Server/cmake-build-debug

@@ -1,0 +1,3 @@
+F:/WinSock/Server/cmake-build-debug/CMakeFiles/WinSock.dir
+F:/WinSock/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/WinSock/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

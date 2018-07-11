@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/winSockMultithreads/Server/log.h
+stdio.h
+-
+errno.h
+-
+
+F:/winSockMultithreads/Server/server.cpp
+winsock2.h
+-
+windows.h
+-
+libintl.h
+-
+pthread.h
+-
+iostream
+-
+conio.h
+-
+vector
+-
+log.h
+F:/winSockMultithreads/Server/log.h
+thread
+-
+

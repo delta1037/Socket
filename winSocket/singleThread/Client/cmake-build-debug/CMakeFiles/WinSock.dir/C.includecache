@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/WinSock/Client/client.c
+winsock2.h
+-
+stdio.h
+-
+conio.h
+-
+log.h
+F:/WinSock/Client/log.h
+
+F:/WinSock/Client/log.h
+stdio.h
+-
+errno.h
+-
+
