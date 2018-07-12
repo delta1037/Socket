@@ -1,8 +1,22 @@
-#c语言写的Socket
-包含客户端和服务端
+# Socket
+## linuxSocket
+在Linux上实现的Socket程序
 
-首先运行服务端,再运行客户端,此时会收到服务端的hello world,服务端运行完成并关闭
+### Socket_fileTrans
+使用socket传输文件
+
+### Socket_msg
+使用socket传输消息
 
 
-本地测试完成
-在不同电脑上有待测试
+
+## winSocket
+在window上实现的Socket程序
+
+### singleThread_Sock_msg
+单线程Socket,两人互发送消息
+
+### Multithread_Sock_msg
+多线程Socket ,多人在线可同时发送消息
+
+
