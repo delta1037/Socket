@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "F:/WinSock/Client/client.c" "F:/WinSock/Client/cmake-build-debug/CMakeFiles/WinSock.dir/client.c.obj"
+  "F:/Socket/winSocket/singleThread_Sock_msg/Client/client.c" "F:/Socket/winSocket/singleThread_Sock_msg/Client/cmake-build-debug/CMakeFiles/WinSock.dir/client.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

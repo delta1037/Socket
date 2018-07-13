@@ -1,1 +1,1 @@
- -LF:/winSockMultithreads/Server/dll/x86 -lws2_32 -lwsock32 -lpthreadGC2 -lpthreadVC2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ -LF:/Socket/winSocket/Multithreads_Sock_msg/Server/dll/x86 -lws2_32 -lwsock32 -lpthreadGC2 -lpthreadVC2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

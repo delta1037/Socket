@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/winSockMultithreads/Server/server.cpp" "F:/winSockMultithreads/Server/cmake-build-debug/CMakeFiles/Server.dir/server.cpp.obj"
+  "F:/Socket/winSocket/Multithreads_Sock_msg/Server/server.cpp" "F:/Socket/winSocket/Multithreads_Sock_msg/Server/cmake-build-debug/CMakeFiles/Server.dir/server.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-F:/winSockMultithreads/Server/log.h
+F:/Socket/winSocket/Multithreads_Sock_msg/Server/log.h
 stdio.h
 -
 errno.h
 -
 
-F:/winSockMultithreads/Server/server.cpp
+F:/Socket/winSocket/Multithreads_Sock_msg/Server/server.cpp
 winsock2.h
 -
 windows.h
@@ -28,7 +28,7 @@ conio.h
 vector
 -
 log.h
-F:/winSockMultithreads/Server/log.h
+F:/Socket/winSocket/Multithreads_Sock_msg/Server/log.h
 thread
 -
 

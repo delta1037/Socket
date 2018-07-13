@@ -53,10 +53,10 @@ RM = "E:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\WinSock\Client
+CMAKE_SOURCE_DIR = F:\Socket\winSocket\singleThread_Sock_msg\Client
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\WinSock\Client\cmake-build-debug
+CMAKE_BINARY_DIR = F:\Socket\winSocket\singleThread_Sock_msg\Client\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/WinSock.dir
@@ -65,7 +65,7 @@ CMAKE_BINARY_DIR = F:\WinSock\Client\cmake-build-debug
 CMakeFiles/WinSock.dir/all:
 	$(MAKE) -f CMakeFiles\WinSock.dir\build.make CMakeFiles/WinSock.dir/depend
 	$(MAKE) -f CMakeFiles\WinSock.dir\build.make CMakeFiles/WinSock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\WinSock\Client\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target WinSock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=F:\Socket\winSocket\singleThread_Sock_msg\Client\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target WinSock"
 .PHONY : CMakeFiles/WinSock.dir/all
 
 # Include target in all.
@@ -75,9 +75,9 @@ all: CMakeFiles/WinSock.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/WinSock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\WinSock\Client\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\Socket\winSocket\singleThread_Sock_msg\Client\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/WinSock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\WinSock\Client\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\Socket\winSocket\singleThread_Sock_msg\Client\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/WinSock.dir/rule
 
 # Convenience name for target.

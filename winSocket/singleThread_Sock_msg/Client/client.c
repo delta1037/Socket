@@ -50,7 +50,7 @@ int Client(int serPort,char* serIP){
         break;
       }
     }
-    _sleep(200);
+    _sleep(100);
     recvLengh=recv(cliSock,buf,BUFSIZE,0);
     if(recvLengh>0){
       //puts("Get from:");

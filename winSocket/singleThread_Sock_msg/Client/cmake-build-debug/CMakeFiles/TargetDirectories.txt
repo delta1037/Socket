@@ -1,3 +1,3 @@
-F:/WinSock/Client/cmake-build-debug/CMakeFiles/WinSock.dir
-F:/WinSock/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/WinSock/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Socket/winSocket/singleThread_Sock_msg/Client/cmake-build-debug/CMakeFiles/WinSock.dir
+F:/Socket/winSocket/singleThread_Sock_msg/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Socket/winSocket/singleThread_Sock_msg/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-F:/Client/client.c
+F:/Socket/winSocket/Multithreads_Sock_msg/Client/client.c
 winsock2.h
 -
 stdio.h
@@ -14,9 +14,9 @@ stdio.h
 conio.h
 -
 log.h
-F:/Client/log.h
+F:/Socket/winSocket/Multithreads_Sock_msg/Client/log.h
 
-F:/Client/log.h
+F:/Socket/winSocket/Multithreads_Sock_msg/Client/log.h
 stdio.h
 -
 errno.h
